@@ -1,8 +1,8 @@
-#### BasicStructure
+#### Interface Practice
 
-### Date
+### April 6, 2016
 
-Basic structure for future projects
+Practice with interfaces
 
 * Git
 * Java 7
